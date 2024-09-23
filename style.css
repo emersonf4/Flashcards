@@ -99,3 +99,17 @@ body {
         font-size: 3.8vw;
     }
 }
+
+footer {
+       background:black;
+       color:white;
+       position:fixed;
+       botom:0;
+       width:100%;
+       hyeight:2rem;
+}
+fother p{
+        text-align:center;
+        font-size:0.6rem;
+        margin-top:0.5rem;
+}
