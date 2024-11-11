@@ -21,3 +21,15 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'geagrafia',
+    'Qual a Capital do Brasil?',
+    'Brasilia'
+)
+criaCartao(
+    'lingua inglesa',
+    'como se fala cachorro em ingles?',
+    'Brasilia'
+)
+
